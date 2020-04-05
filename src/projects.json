@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Untitled 404",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "deployed": "Fry Cook",
+    "github": "https://github.com/Keylee-LNBY/Untitled404"
+  },
+  {
+    "id": 2,
+    "name": "Nerdify",
+    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+    "deployed": "https://calm-reef-29496.herokuapp.com/",
+    "github": "https://github.com/hmbudzinski/ProjectTwo"
+  },
+  {
+    "id": 3,
+    "name": "Beer Here",
+    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+    "deployed": "https://keeleybb.github.io/12_11_Beer_Here/index.html",
+    "github": "https://github.com/keeleybb/12_11_Beer_Here"
+  },
+  {
+    "id": 4,
+    "name": "Day Planner",
+    "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
+    "deployed": "https://github.com/melg30/scheduler",
+    "github": "https://melg30.github.io/scheduler/"
+  },
+  {
+    "id": 5,
+    "name": "Workout Tracker",
+    "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
+    "deployed": "https://warm-bayou-56967.herokuapp.com/",
+    "github": "https://github.com/melg30/workout_tracker"
+  },
+  {
+    "id": 6,
+    "name": "Weather Dashboard",
+    "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
+    "deployed": "https://melg30.github.io/weather-dashboard/",
+    "github": "https://github.com/melg30/weather-dashboard"
+  }
+]
